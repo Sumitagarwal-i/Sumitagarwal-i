@@ -9,7 +9,7 @@ TypeScript · Next.js · Python · PostgreSQL · Privacy-first AI
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-2023pcecssumit167%40poornima.org-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2023pcecssumit167@poornima.org)
+[![Email](https://img.shields.io/badge/Email-sumitagar4%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitagar4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sumitagarwal--i-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sumitagarwal-i)
 [![DatumInt](https://img.shields.io/badge/Live_SaaS-datumintapp.com-10B981?style=flat-square&logo=vercel&logoColor=white)](https://datumintapp.com)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-6366F1?style=flat-square)](mailto:2023pcecssumit167@poornima.org)
@@ -102,20 +102,7 @@ TypeScript · Next.js · Python · PostgreSQL · Privacy-first AI
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sumitagarwal-i&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitagarwal-i&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sumitagarwal-i&theme=github-dark-blue&hide_border=true)
-
-</div>
 
 ---
 
@@ -133,7 +120,7 @@ I'm actively looking for **Software Engineering**, **Full-Stack**, or **AI/ML En
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Connect_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023pcecssumit167@poornima.org)
+[![Email](https://img.shields.io/badge/Email-Connect_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitagar4@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumitagarwal-i)
 [![DatumInt](https://img.shields.io/badge/DatumInt-View_Live_SaaS-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://datumintapp.com)
 
