@@ -1,63 +1,146 @@
-<h1 align="center">Sumit Agarwal</h1>
-<p align="center"><b>Software Engineer & SaaS Builder</b></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Sumitagarwal-i">
-    <img src="https://img.shields.io/badge/Status-Shipping_Code-000000?style=flat-square&logo=github&logoColor=white" alt="Status" />
-  </a>
-</p>
+# Sumit Agarwal
 
-> 💡 Transitioning complex ideas into structured, deployed applications. Specializing in strict pre-ingestion data validation, privacy-first local AI, and decoupled TypeScript architectures.
+### Software Engineer · SaaS Builder · AI Tooling
+
+**Turning complex ideas into shipped, production-grade products.**  
+TypeScript · Next.js · Python · PostgreSQL · Privacy-first AI
 
 <br>
 
-### 💻 The Stack
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
+[![Email](https://img.shields.io/badge/Email-2023pcecssumit167%40poornima.org-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2023pcecssumit167@poornima.org)
+[![GitHub](https://img.shields.io/badge/GitHub-Sumitagarwal--i-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sumitagarwal-i)
+[![DatumInt](https://img.shields.io/badge/Live_SaaS-datumintapp.com-10B981?style=flat-square&logo=vercel&logoColor=white)](https://datumintapp.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-6366F1?style=flat-square)](mailto:2023pcecssumit167@poornima.org)
 
-<br>
+</div>
 
-### 🏗️ Engineering & Architectures
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Sumitagarwal-i/shipped-so-frontend">BuiltBy (Shipped.so)</a></b>
-      <br><i>TypeScript, Next.js, PostgreSQL</i>
-      <blockquote>A full-stack credibility platform. Engineered a ~20MB frontend decoupled from a secure API, utilizing JWT authentication and robust relational databases.</blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Sumitagarwal-i/IMOS_terminal">iMOS Engine</a></b>
-      <br><i>Python, Semantic Search</i>
-      <blockquote>Privacy-first local AI engine (PyPI). Built with a dual-client architecture featuring a blazing-fast raw terminal interface and a Google Drive-integrated UI.</blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://datumintapp.com">DatumInt</a></b>
-      <br><i>Live Web SaaS</i>
-      <blockquote>A specialized developer tool built strictly for pre-ingestion data validation and JSON/CSV repair to ensure upstream enterprise data integrity.</blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Sumitagarwal-i/Pitchbot">PitchIntel & R&D Lab</a></b>
-      <br><i>Python, TypeScript</i>
-      <blockquote>High-velocity prototyping lab. Features an AI-powered B2B intelligence engine for strategic company research alongside Next.js web experiments.</blockquote>
-    </td>
-  </tr>
-</table>
+## About Me
 
+- 🏗️ I build **full-stack SaaS products** end-to-end — from architecture to deployment.
+- 🤖 Specialize in **privacy-first local AI**, pre-ingestion data validation, and decoupled TypeScript architectures.
+- 📦 Published on **PyPI**; shipped a live SaaS (DatumInt) used by developers to validate and repair upstream data.
+- 🏆 Selected for **Google Big Code Challenge 2026** and **Google Gen AI Academy APAC 2026**.
+- 🎓 B.Tech CSE @ Poornima College of Engineering, Jaipur (2023–2027).
 
-<br>
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks & Runtime**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI / ML**
+
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-4A4A4A?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-NLP-8B5CF6?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [🔗 DatumInt](https://datumintapp.com) — Live SaaS
+> **Problem:** Dirty JSON/CSV data breaks enterprise pipelines before ingestion.  
+> **Solution:** A specialized web tool for pre-ingestion validation, repair, and schema enforcement.  
+> **Stack:** Next.js · TypeScript · PostgreSQL · Vercel  
+> **Impact:** Live product serving developers and data engineers; handles malformed JSON/CSV repair at upload time.
+
+---
+
+### [🔗 BuiltBy (Shipped.so)](https://github.com/Sumitagarwal-i/shipped-so-frontend) — Full-Stack Platform
+> **Problem:** Developers lack a credibility layer to showcase shipped work beyond a portfolio.  
+> **Solution:** A full-stack platform where builders publish projects with proof of shipping.  
+> **Stack:** TypeScript · Next.js · PostgreSQL · JWT Auth  
+> **Impact:** ~20 MB decoupled frontend; secure API-separated backend; production-ready authentication flow.
+
+---
+
+### [🔗 iMOS Engine](https://github.com/Sumitagarwal-i/IMOS_terminal) — PyPI Package
+> **Problem:** AI tools require cloud connectivity, raising privacy and latency concerns.  
+> **Solution:** A privacy-first local AI engine with semantic search, running 100% offline.  
+> **Stack:** Python · Semantic Search · Ollama · Google Drive API  
+> **Impact:** Published on PyPI; dual-client architecture (raw terminal + Drive-integrated UI); zero data leaves the machine.
+
+---
+
+### [🔗 PitchIntel](https://github.com/Sumitagarwal-i/Pitchbot) — AI B2B Research Engine
+> **Problem:** Sales and BD teams spend hours manually researching target companies.  
+> **Solution:** An AI-powered intelligence engine that auto-generates structured company briefs for B2B pitching.  
+> **Stack:** Python · TypeScript · Next.js · OpenAI API  
+> **Impact:** Reduces company research time from hours to seconds; structured output ready for outreach.
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Year |
+|---|---|
+| 🏆 Google Big Code Challenge — Selected Participant | 2026 |
+| 🧠 Google Gen AI Academy APAC — Selected Participant | 2026 |
+| 📦 Published Python package on PyPI (iMOS Engine) | 2025 |
+| 🚀 Shipped live SaaS product (DatumInt) to production | 2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <p>🏆 <b>Google Big Code Challenge (2026)</b> &nbsp; | &nbsp; 🧠 <b>Gen AI Academy APAC (2026)</b></p>
-  <a href="mailto:2023pcecssumit167@poornima.org">
-    <img src="https://img.shields.io/badge/Email-Connect-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sumitagarwal-i&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitagarwal-i&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumitagarwal-i&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively looking for **Software Engineering**, **Full-Stack**, or **AI/ML Engineering** roles where I can build real products from 0→1.
+
+- 📍 **Location:** Jaipur, India (open to remote / relocation)
+- 🎯 **Role preference:** SWE · Full-Stack · AI Tooling · Backend
+- ⚡ **Strength:** Shipping fast, thinking in systems, building products that solve real problems
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Connect_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023pcecssumit167@poornima.org)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumitagarwal-i)
+[![DatumInt](https://img.shields.io/badge/DatumInt-View_Live_SaaS-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://datumintapp.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Building things that work, in public.</sub>
 </div>
