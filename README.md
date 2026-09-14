@@ -67,7 +67,12 @@ TypeScript · Next.js · Python · PostgreSQL · Privacy-first AI
 
 ---
 
-### [🔗 BuiltBy (Shipped.so)](https://github.com/Sumitagarwal-i/shipped-so-frontend) — Full-Stack Platform
+### BuiltBy (Shipped.so) — Full-Stack Platform
+
+[🔗 Frontend Repo](https://github.com/Sumitagarwal-i/shipped-so-frontend)
+
+[🔗 Backend Repo](https://github.com/Sumitagarwal-i/shipped-so-backend)
+
 > **Problem:** Developers lack a credibility layer to showcase shipped work beyond a portfolio.  
 > **Solution:** A full-stack platform where builders publish projects with proof of shipping.  
 > **Stack:** TypeScript · Next.js · PostgreSQL · JWT Auth  
@@ -80,14 +85,6 @@ TypeScript · Next.js · Python · PostgreSQL · Privacy-first AI
 > **Solution:** A privacy-first local AI engine with semantic search, running 100% offline.  
 > **Stack:** Python · Semantic Search · Ollama · Google Drive API  
 > **Impact:** Published on PyPI; dual-client architecture (raw terminal + Drive-integrated UI); zero data leaves the machine.
-
----
-
-### [🔗 PitchIntel](https://github.com/Sumitagarwal-i/Pitchbot) — AI B2B Research Engine
-> **Problem:** Sales and BD teams spend hours manually researching target companies.  
-> **Solution:** An AI-powered intelligence engine that auto-generates structured company briefs for B2B pitching.  
-> **Stack:** Python · TypeScript · Next.js · OpenAI API  
-> **Impact:** Reduces company research time from hours to seconds; structured output ready for outreach.
 
 ---
 
